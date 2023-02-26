@@ -2,4 +2,4 @@
 Machine Learning App That Determines What Flower
 
 
-Uses image recognition to detertime flower species and pull data from Wikipedia.
+Uses image recognition Flower Classifier caffee model from Oxford to detertime flower species and returns results from Wikipedia API and Cocoapods.
