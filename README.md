@@ -1,8 +1,8 @@
 # WhatFlower
-Machine Learning App That Determines What Flower
+Swift App That Determines What Flower
 
 
-Uses image recognition Flower Classifier caffe model from Oxford to detertime flower species and returns results from Wikipedia API, using Cocoapods & Alamofire.
+Uses image recognition Flower Classifier caffe ML model from Oxford to detertime flower species and returns results from Wikipedia API, using Cocoapods & Alamofire.
 
 Here is an example below using a sunflower from the internet because I have no real flowers to test :) 
 ![IMG_2774](https://user-images.githubusercontent.com/51424392/221722492-90501aa8-9885-4d83-8a9a-5c3bf1424b3a.PNG)
